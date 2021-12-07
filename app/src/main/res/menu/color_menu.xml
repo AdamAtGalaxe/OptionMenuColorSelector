@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <item android:title="red"
+            android:id="@+id/red"/>
+        <item android:title="orange"
+            android:id="@+id/orange" />
+        <item android:title="green"
+            android:id="@+id/green"/>
+        <item android:title="exit"
+            android:id="@+id/exit"/>/>
+
+</menu>
